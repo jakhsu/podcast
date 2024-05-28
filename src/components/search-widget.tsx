@@ -122,7 +122,7 @@ export const SearchWidget = () => {
                   })
                 }}
               >
-                <span className={"text-gray-900 font-semibold"}>
+                <span className={"font-semibold"}>
                   {podcast.collectionName}
                 </span>
               </BaseCommandItem>
