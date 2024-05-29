@@ -57,16 +57,6 @@ export const SettingsWidget = () => {
           }}>
             Zen Garden
           </Button>
-          <Button onClick={() => {
-            setTheme('industrial-steampunk')
-          }}>
-            Steampunk
-          </Button>
-          <Button onClick={() => {
-            setTheme('ocean-beach')
-          }}>
-            Ocean
-          </Button>
         </CardContent>
       </Card>
     </div>
